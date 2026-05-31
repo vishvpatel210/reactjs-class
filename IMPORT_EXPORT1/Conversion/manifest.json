@@ -1,0 +1,9 @@
+{
+    "name" : "Kilometer Conversion ",
+    "description" : "Experiment purpose extension creation to learn it form the scr",
+    "version" : "1.0.0",
+    "manifest_version" : 3,
+    "action" :{
+        "default_popup" : "code/index.html"
+    }
+}

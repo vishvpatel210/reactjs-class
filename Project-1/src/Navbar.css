@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.conatiner{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    background-color: aqua;
+    color: black;
+    font-size: 30px;
+    gap: 30px;
+}

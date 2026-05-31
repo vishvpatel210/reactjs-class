@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  border: 2px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 10px;
+}
+
+.link {
+  /* border: 2px solid blue; */
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menubar {
+  display: none;
+}
+
+.bar1 {
+  display: block;
+  width: 20px;
+  height: 5px;
+  background-color: blue;
+  margin-bottom: 5px;
+}
+
+.bar2 {
+  display: block;
+  width: 20px;
+  height: 5px;
+  background-color: blue;
+  margin-bottom: 5px;
+}
+
+.bar3 {
+  display: block;
+  width: 20px;
+  height: 5px;
+  background-color: blue;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,23 @@
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.container{
+    width: 300px;
+}
+.img-box img{
+    height: 200px;
+    width: 200px;
+}
+.img-meal{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.img-name{
+    font-size: 10px;
+}
+
